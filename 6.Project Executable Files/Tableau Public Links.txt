@@ -1,0 +1,3 @@
+Tableau Public Links:
+	--Dashboard: https://public.tableau.com/views/Toy_Manufacture/Dashboard1 
+	--Story: https://public.tableau.com/app/profile/marrineni.praveen/viz/Toy_Manufacture/Story1#1
